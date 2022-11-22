@@ -1,0 +1,70 @@
+
+AWS Interview Questions:
+
+1. What is Elastic IP ? Whey do we require Elastic IP ? Does Elastic IP is a Private or Public ?
+2. What is KeyPairs ? What is the difference between .pem & .ppk ?
+3. What is SnapShots ? Why do we require SnapShot ?
+4. What is Load Balancer ?
+5. What is Security Groups ?
+6. What are Volumes?
+7. How do you check the Service Health of a Region ?
+8. What do you mean by Tags? Why do we require it ?
+9. How can I see the Limits ?
+10. Can you explain me the instance Life Cycle ?
+11. What is the difference between Start/Stop/Hibernate/Reboot/Terminate ?
+12. What is the difference between public ip and private ip ? 
+13. List out the Private IPs ?
+14. How do you change the instance type of a running instance ?
+15. How do you attach and IAM role on a running instance ?
+16. What is Termination Protection ?
+17. How do you bootstrap an instance with set of commands ? 
+18. How do you edit the User Data ?
+19. How do you create an image from a running/stopped instance ?
+20. How do you get the System Log from an instance ?
+21. Will I be able to choose a different AMI while the instance is running?
+22. What is Security Groups?
+23. What is the difference between I/B & O/B rules in Security Groups ?
+24. List the number of Ports ?
+25. What is Subnet? Why do we require Subnet ? What is the difference between Public and Private Subnet ?
+26. What do you mean by Root Device Name in Storage ?
+27. What is EBS ?
+28. What is Instance Store ?
+29. What is the difference between System Status checks and Instance Status checks ?
+30. How do you check the CPU Utilization of an instance ?
+31. List out the minimum and maximum configuration of instance type. 
+32. What is Launch Template ?
+33. What is Spot Instance ?
+34. What is Reserved Instance ?
+35. Can we schedule an instance at some time ? Is it possible ?
+36. What is the difference between HVM and PV Virtualization ?
+37. Will you be able to share your custom AMI to different AWS Accounts ?
+38. Will you be able to copy your custom AMI from one region to different region ?
+39. List Out the different Volume types?
+40. Will you be able to modify a Volume ?
+41. Will you be able to copy a Snapshot from one region to another region ?
+42. I want to create an AMI/Image from a Snapshot. Is it possible ?
+43. What is Nested Security Groups?
+44. What do you mean by Placement Groups?
+45. Is it possible to create an Internal Application Load Balancer ?
+46. What do you mean by Listener in Application Load Balancer ?
+47. What are the availablie Listener protocols in Application Load Balancer ?
+48. What are the different Target Types in Application Load Balancer Target Groups ?
+49. What are the available Target Group Protocols in Application Load Balancer Target Group ?
+50. What is the difference between SSL/TLS/TCP/UDP/HTTP/HTTPS/SSH/FTP/PING/ICMP ?
+51. What are all the available Health Check Protocols available in Target Group ?
+52. What is Healthy Threshold / Unhealthy Threshold / Timeout / Interval ?
+53. What are the available Target Group Protocols in Network Load Balancer Target Group ?
+54. List out Listener rule Conditions ?
+55. Should you use Launch Configurations or No ?
+56. What is the difference between Launch Configuration vs Launch Templates ?
+57. What is Auto Scaling Groups ?
+58. Show me how to create Auto Scaling Group ?
+59. What do you mean by Desired, Minimum and Maximum Capacity in Auto Scaling Group ?
+60. What is Scaling Policies in Auto Scaling Group ?
+61. What is Target Tracking Scaling Policy ?
+62. List out the Metric types available in Target Tracking Scaling Policy ?
+63. How can you add Notification in Auto Scaling Groups ?
+64. What is Dynamic Scaling Policy in Auto Scaling Group ?
+65. What are the Policy types in Dynamic Scaling Policy ?
+66. What is Lifecycle hook in Auto Scaling Group ?
+67. What is Instance Refresh in Auto Scaling Group ?
